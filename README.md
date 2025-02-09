@@ -3,5 +3,6 @@ Bu projede çocukların gelişimi için hazırlanmış olan bir kart kullanılar
 
 APK indirme ve uygulama videosu linki için: https://drive.google.com/drive/folders/1IwAeY8H8WqSSWOxP9yCrss52qs6koWAx?usp=sharing
 
-[Nokta Birleştir SWOT Analizi.docx](https://github.com/user-attachments/files/18725628/Nokta.Birlestir.SWOT.Analizi.docx)
+[Nokta Birleştir SWOT Analizi.docx](https://github.com/user-attachments/files/18725628/Nokta.Birlestir.SWOT.Analizi.docx) 
+
 [Nokta Birleştir RAMS Analizi.docx](https://github.com/user-attachments/files/18725644/Nokta.Birlestir.RAMS.Analizi.docx)
